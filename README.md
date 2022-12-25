@@ -13,6 +13,7 @@ I develop a website with framework "Laravel 9" . a website like Moupon and Takhf
 
 
 در ادامه فولدر پابلیک را به storage متصل میکنیم:
+(این قسمت حتما انجام شود چون تصاویر کوپن ها در پوشه پابلیک ذخیره نمیشود بلکه در storage ذخیره می شود.)
 
 <code>php artisan storage:link</code>
 
