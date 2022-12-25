@@ -1,0 +1,204 @@
+body {
+    background-color: #f7f7f7;
+}
+nav {
+    background-color: rgb(116, 31, 162);
+}
+.foot {
+    background-color: rgb(116, 31, 162) !important;
+    
+}
+a {
+    color: white !important;
+    font-weight:bolder;
+}
+.navbar-brand {
+    padding: 5px;
+    border-radius: 8px;
+}
+.head {
+    font-size:xx-large;
+    font-weight: bold;
+}
+.nav {
+    font-weight: bold;
+    margin-left: 10px;
+    padding: 10px;
+}
+p.a {
+    color: white;
+    background: rgb(0, 0, 0, 0.5) !important;
+    font-weight: bold;
+    font-size: large;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+.a2 {
+    width:100%;
+    position:absolute;
+    bottom:0;
+    left:0;
+    text-align:left;
+    background: rgb(0, 0, 0, 0.5);
+    color:white;
+}
+.haraji {
+    opacity: 0.8;
+}
+h1,h2,h3,h4,h5 {
+    font-weight: bold;
+}
+img.offer {
+    height: 170px;
+}
+.reglogo {
+    font-size: xx-large;
+    color: blueviolet;
+    font-weight: bold;
+}
+.alreadyreg {
+    color: gray !important;
+}
+.navar {
+    background-color: rgb(116, 31, 162);
+    font-size: xx-large;
+    font-weight: bold;
+    color: white;
+    width: 100%;
+    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.card:hover{
+    transform: scale(1.07);
+}
+.ads {
+    width: 80%;
+    height: 80px;
+    background-color: gray;
+    color: purple;
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+    border-radius: 5px;
+}
+li:hover, .nav:hover {
+    background-color: black;
+    border-radius: 5px;
+}
+.logohome {
+    width: 160px;
+    height: 50px;
+    margin-top: 10px;
+}
+.logopages {
+    height: 70px;
+    display: block;
+    margin-left: 50px;
+    margin-top: -45px;
+    
+}
+.navarpages {
+    background-color: rgb(116, 31, 162);
+    font-size: xx-large;
+    font-weight: bold;
+    color: white;
+    width: 100%;
+    height: 70px;
+}
+.logregform {
+    color: blueviolet !important;
+    font-weight: bolder;
+}
+.logregbot {
+    background-color: blueviolet !important;
+    color: white !important;
+}
+.logregbot:hover {
+    background-color: purple !important;
+    color: white !important;
+}
+.searchbox {
+    border-radius: 20px;
+}
+.cen {
+    text-align: center;
+    
+}
+.dashnav {
+    background-color: rgb(116, 31, 162);
+}
+.dashlogo {
+    margin-top: 52px !important;
+}
+a.userhover:hover {
+    background-color: white !important;
+    color: black !important;
+}
+.dashdropdown {
+    background-color: white !important;
+    color: purple !important;
+}
+.dashdropdown:hover {
+    background-color: purple !important;
+    color: white !important;
+}
+.list {
+    background-color: rgb(116, 31, 162);
+    color: white;
+}
+.profbot {
+    background-color: white;
+    color: purple;
+}
+.profbot:hover {
+    background-color: lightgray;
+    color: black;
+}
+.offcode {
+    padding: 10px;
+    background-color: purple;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.copybot {
+    background-color: white;
+    margin-left: 15px;
+    color: purple;
+    padding: 10px;
+    border-radius: 7px;
+    font-weight: bold;
+}
+.copybot:hover {
+    background-color: purple;
+    color: white;
+}
+.cd:hover {
+    transform: scale(1);
+    transform-origin: center;
+}
+.cpref {
+    text-decoration: none;
+    color:purple !important;
+    margin-left: 40px;
+    font-size: large;
+}
+.cpref:hover {
+    color: blue !important;
+    text-decoration:underline;
+}
+.favcoupon {
+    color: black;
+}
+.backbot {
+    color: black;
+    margin-top: 25px !important;
+}
+.backbot:hover {
+    color: purple !important;
+}
