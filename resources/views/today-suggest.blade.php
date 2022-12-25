@@ -43,5 +43,5 @@
     
 </div>
 @else
-<p class="text-muted h2">No suggestion today. come tommorow!</p>
+<p class="text-muted h2 text-center">No suggestion today. come tommorow!</p>
 @endif
